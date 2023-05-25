@@ -1,9 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "age": [
+    { "id": 30, "title": "json-server", "author": "myself" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "address": [
+    { "id": 30, "body": "Bangalore India", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "Puneeth" }
 }
